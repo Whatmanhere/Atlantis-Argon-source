@@ -2,6 +2,8 @@
 
 This repository contains a modified version of the Argon source code, originally available at [source-provider/argon](https://github.com/source-provider/argon/). All credit for the foundational work goes to the original authors. This fork has been created strictly for learning and educational purposes.
 
+This source was made available due to Yoru using some code from the original Argon source leak and because of that, the developers of Argon extorted Yoru for his project (Atlantis) and it became Argon's property after that.
+
 ## About This Fork
 
 The original Argon project is known for its implementation of advanced offsets, shuffles, and encryption techniques. In this version, those features have been removed to simplify the codebase and make it more approachable for educational use. The goal is to provide learners with a clear and accessible understanding of the underlying mechanisms without the complexity of advanced obfuscation.
