@@ -21,7 +21,7 @@ Feel free to explore and modify the code to deepen your understanding of its arc
 
 ## Credits
 
-The original source code and inspiration for this project come from the [source-provider/argon](https://github.com/source-provider/argon/) repository. All rights and recognition belong to the authors of the original project.
+The original source code and inspiration for this project come from the [source-provider/argon](https://github.com/source-provider/argon/) repository. All rights and recognition belong to the authors of the original project. And Savage (savage3551) 
 
 ---
 
